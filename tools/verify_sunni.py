@@ -42,14 +42,27 @@ def load():
         B[ed] = (j["hadiths"], j["metadata"].get("sections", {}))
 def norm(s): return re.sub(r'[ً-ْٰـ]','',s)
 def find(ed,n):
+    """Match by the collection's standard number.
+
+    Muslim: the corpus stores Abd al-Baqi numbers as arabicnumber with a sub-report
+    suffix (e.g. 1759.01, 1759.02, or 2424 when single). Match on the integer part
+    so `show muslim 1759` returns every sub-report of 1759 — never fall back to the
+    corpus' sequential hadithnumber, which is a different numbering.
+    Other books: standard number == hadithnumber == arabicnumber."""
     load(); hs,_=B[ed]
-    out=[h for h in hs if str(h.get("arabicnumber"))==str(n)]
-    if not out: out=[h for h in hs if str(h.get("hadithnumber"))==str(n)]
-    return out
+    n=str(n).strip()
+    def intpart(x):
+        x=str(x)
+        return x.split(".")[0] if x not in ("None","") else ""
+    out=[h for h in hs if intpart(h.get("arabicnumber"))==n]
+    if out: return out
+    if ed=="muslim":
+        return []   # no silent fallback for Muslim
+    return [h for h in hs if str(h.get("hadithnumber"))==n]
 def show(ed,n,w=230):
     hs=find(ed,n)
     if not hs: print(f"-- {ed} {n}: NOT FOUND"); return
-    for h in hs[:2]:
+    for h in hs[:4]:
         sec=B[ed][1].get(str(h["reference"]["book"]),"")
         g=";".join(f'{x["name"]}:{x["grade"]}' for x in h.get("grades",[]))
         print(f"-- {ed} {n} (num {h['hadithnumber']}/ar {h.get('arabicnumber')}) [{sec[:40]}] {g}\n   {norm(h['text'])[:w]}")

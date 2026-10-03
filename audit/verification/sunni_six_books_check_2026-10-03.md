@@ -2,6 +2,7 @@
 
 **Date:** 2026-10-03
 **Tool:** `tools/verify_sunni.py batch` → raw output `sunni_six_books_check_2026-10-03.raw.txt`
+**Correction (same day):** the first run of the tool matched Sahih Muslim numbers only when stored without a sub-report suffix and otherwise fell back to the corpus' sequential numbering, so the first raw file showed wrong texts for most Muslim rows (e.g. 1759, 2408, 2450). The Muslim verdicts in table A were taken from Arabic text searches (`search`), which were unaffected, and have been re-confirmed after the fix; the raw file was regenerated with the fixed tool (`show muslim <n>` now lists all sub-reports n.01, n.02 … and never falls back). Muslim 2989 is now confirmed: 2989.02 (Usama, Abu Wa'il) is the donkey-at-the-mill report.
 **Corpus:** fawazahmed0/hadith-api Arabic editions (GitHub sparse clone). Numbering = standard (sunnah.com) for Bukhari, Abu Dawud, Tirmidhi, Ibn Majah; Muslim matched on Abd al-Baqi `arabicnumber`.
 **Why not sunnah.com / dorar.net:** both (and cdn.jsdelivr.net) are denied by this cloud environment's network policy; GitHub is allowed.
 **Scope:** every hadith *number* the ledger cites in the six books, plus substring searches for wordings the ledger attributes to those books. Shia sources and Sunni works outside the six books (Hakim, Tabarani, Ahmad, Bayhaqi…) could **not** be checked here — they stay PAGE-CHECK / CANDIDATE.
@@ -68,7 +69,7 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 | Muslim | 2581 | 312 | أتدرون ما المفلس | — | ✅ |
 | Muslim | 2816–2818 | 293 | لن ينجي أحدا منكم عمله | — | ✅ |
 | Muslim | 2888 | 313 | إذا التقى المسلمان بسيفيهما | — | ✅ |
-| Muslim | 2989 | 317 | (concordance no.; text not surfaced by search) | — | ⚠ PAGE-CHECK |
+| Muslim | 2989 | 317 | Usama (Abu Wa'il): intestines, كالحمار يدور برحاه — sub-report 2989.02 | — | ✅ (after tool fix) |
 | Abu Dawud | 2968 | 079 | Fatima/Fadak inheritance | Sahih (Albani) | ✅ |
 | Abu Dawud | 2972 | 079 | Umar b. Abd al-Aziz restores Fadak | **Da'if (Albani)** | ⚠ grade is al-Albani's (BUG-01) |
 | Abu Dawud | 3652 | 225 | Jundub: من قال في القرآن برأيه فأصاب | Da'if | ⚠ print grade |
