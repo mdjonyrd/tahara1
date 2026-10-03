@@ -3,7 +3,7 @@
 «জান্নাতে যেতে হলে জানতে হবে» — **বই ১, ভাগ ১–১১** (`B1_P01-11_reader.docx`, 768 pp.)-এর citation/reference integrity workspace।
 এখানে manuscript-এর prose নেই; আছে audit ledger, source-verification report, এবং manuscript-এ বসানোর patch।
 
-**বর্তমান gate:** `BOOK 1 · PARTS 1–11 — CITATION AUDIT: PRINT BLOCKED` (328 unresolved marker; 4 resolved to edition-lock stage)
+**বর্তমান gate:** `BOOK 1 · PARTS 1–11 — CITATION AUDIT: PRINT BLOCKED` — 328 row triaged (v1.2): 62 verified-live, 12 mismatch, 30 unidentified, বাকি page/edition lock
 
 ## Layout
 
@@ -12,10 +12,15 @@
 | `audit/B1_P01-11_CITATION_AUDIT_v1.0.md` | পূর্ণ audit (BUG-01…10, verified web corrections, 328-row ledger, final gate)। **Immutable.** |
 | `audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.0.csv` | Machine-readable ledger v1.0: `ID, Paragraph_Index, Part, Chapter, Status, Text`। **Immutable.** |
 | `audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.1.csv` | v1.0 + `Status_v1_1, Resolution_Ref, Resolution_Note`। `tools/apply_resolutions.py` দিয়ে generated; হাতে edit নয়। |
+| `audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.2.csv` | v1.1 + per-row triage: `Triage, Triage_Label, Candidate_Source, Register_Key, Audit_Note` (data: `tools/triage_v1_2.py`)। |
+| `audit/B1_P01-11_CITATION_AUDIT_v1.1.md` | Audit v1.1: BUG-11…30, 12 mismatch corrections, normalisation register, revised execution order। |
+| `audit/verification/` | Live-check evidence (six Sunni books vs. ledger numbers, 2026-10-03)। |
 | `sources/S-<id>_*.md` | এক source-lock = এক file। দাবি আলাদা, status আলাদা, edition-lock checklist সহ। |
 | `manuscript-patches/` | Prose + source-block replacement text, `⟦…⟧` placeholder = edition lock বাকি। |
 | `tools/apply_resolutions.py` | v1.0 → v1.1 transform। নতুন resolution = `RESOLUTIONS` dict-এ একটি entry। |
 | `tools/ledger_stats.py` | কোনো ledger CSV-র status count। |
+| `tools/triage_v1_2.py` | 328 row-এর triage data (code, candidate source, register key, note)। |
+| `tools/verify_sunni.py` | ছয় Sunni কিতাবে নম্বর/wording live check (GitHub corpus; `fetch` → `batch`)। |
 
 ## Status vocabulary
 
@@ -44,11 +49,16 @@ SOURCE-MISSING → NOT VERIFIED → PAGE-CHECK → EDITION LOCK → GLOBAL REFER
 3. `tools/apply_resolutions.py`-র `RESOLUTIONS`-এ REF-ID entry যোগ করুন; script চালান; `tools/ledger_stats.py` দিয়ে count যাচাই করুন।
 4. এক commit = এক source-lock।
 
+## Triage codes (ledger v1.2)
+
+`VL` verified-live · `MM` mismatch (correction given) · `EDN` edition-number · `CAND` candidate source · `SPC` Shia page-check · `UNID` unidentified · `DUP` duplicate → register key · `PROSE` prose line · `HIST` non-hadith · `S181` resolved · `Q` Quran text
+
 ## Resolved so far
 
 | Source | Ledger rows | Status |
 |--------|-------------|--------|
 | `S-181` উম্মে আইমান ও ফাদাকের সাক্ষ্য | REF-078, 079, 081, 082 | RESEARCH COMPLETE / EDITION LOCK PENDING / PRINT: CONDITIONAL |
+| Six-book live check | 62 rows VL; 12 MM | numbers confirmed; grades to print; see audit v1.1 §2–4 |
 
 ## Rules (never violate)
 - Manuscript prose চুপিচুপি বদলানো যাবে না — patch file দিয়ে, দেখিয়ে।

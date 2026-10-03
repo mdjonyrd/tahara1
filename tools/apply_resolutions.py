@@ -2,7 +2,8 @@
 """Apply source-verification resolutions to the unidentified-reference ledger.
 
 Input : audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.0.csv  (never modified)
-Output: audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.1.csv
+Output: audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.1.csv  (S-181 resolutions)
+        audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.2.csv  (v1.1 + per-row triage)
 
 The original columns (ID, Paragraph_Index, Part, Chapter, Status, Text) are copied
 verbatim. Three columns are appended:
@@ -23,6 +24,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "audit" / "B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.0.csv"
 DST = ROOT / "audit" / "B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.1.csv"
+DST12 = ROOT / "audit" / "B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.2.csv"
 
 S181 = "sources/S-181_UMM_AYMAN_FADAK_VERIFICATION.md"
 PATCH = "manuscript-patches/B1_P03_C06_FADAK_S-181_PATCH.md"
@@ -88,6 +90,19 @@ def main() -> int:
         writer.writeheader()
         writer.writerows(rows)
 
+    # ---- v1.2: per-row triage (tools/triage_v1_2.py) ----
+    sys.path.insert(0, str(ROOT / "tools"))
+    from triage_v1_2 import T, CODES
+    cols12 = out_cols + ["Triage", "Triage_Label", "Candidate_Source", "Register_Key", "Audit_Note"]
+    for row in rows:
+        code, cand, reg, note = T[row["ID"]]
+        row["Triage"], row["Triage_Label"] = code, CODES[code]
+        row["Candidate_Source"], row["Register_Key"], row["Audit_Note"] = cand, reg, note
+    with DST12.open("w", encoding="utf-8", newline="") as fh:
+        writer = csv.DictWriter(fh, fieldnames=cols12)
+        writer.writeheader()
+        writer.writerows(rows)
+    print(f"wrote   : {DST12.relative_to(ROOT)}  (triage rows: {sum(1 for r in rows if r['Triage'])})")
     print(f"rows in : {len(rows)}")
     print(f"rows out: {len(rows)}")
     print(f"applied : {', '.join(applied)}")
