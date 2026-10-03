@@ -18,3 +18,11 @@
 | C-14 | Tool: `show muslim N` fell back to sequential numbering | Fixed; all Muslim numbers re-verified by Abd al-Baqi integer | Evidence trail restored |
 | C-15 | Tirmidhi 3206 cited for the «নয় মাস» chapter (REF-274/269) | 3206 says **six** months, fajr only, da'if | Nine-month claim needs Shawahid al-Tanzil / Tabarani |
 | C-16 | Malik b. Aws b. al-Hadathan vs Aus ibn al-Hadathan | Sunni narrator of the Fadak dispute (Bukhari 3094, Muslim 1757) ≠ Shia counter-witness Aus | Never conflate |
+| C-17 | Basra correction rests on Bukhari 784 **and** 786 | Only **784** contains «بالبصرة»; 786 (Mutarrif) names no place | Cite 784 for the place; 786 only for the takbir detail |
+| C-18 | Muslim 91 = verbatim «مثقال حبة من خردل من كبر» (BUG-16) | Muslim 91 reads «ذرة من كبر» / «حبة خردل من كبرياء»; the verbatim wording is Abu Dawud 4091, Tirmidhi 1998, Ibn Majah 59 / 4173 | Cite the book whose wording is quoted |
+| C-19 | Bukhari 7083 / Muslim 2888 «إذا التقى المسلمان بسيفيهما» (REF-313) | 7083 and 2888.01 read «إذا **تواجه** المسلمان بسيفيهما»; «التقى» is Bukhari 31, 6875 and Muslim 2888.02 | Quote the sub-report actually cited |
+| C-20 | Tirmidhi 3871 for «أنت على مكانك» (REF-186) | 3871 reads «إنك على خير»; «أنت على مكانك» is 3205 / 3787 | (as C-05) |
+| C-21 | `show muslim 2816` complete | The first two 2816 sub-reports are unnumbered in the corpus; use `search` for them | Tool caveat recorded in tools/README |
+| C-22 | HAD-MADINAT-ILM = 5 rows (BUG-26) | 6 rows incl. prose REF-308 | Register updated |
+| C-23 | CL-HAD-008 single hadith | Used for two different hadiths (REF-250 Bukhari 3714; REF-251 Hakim 4730) | Split the CL id |
+| C-24 | REF-158 Ahmad «3/364» vs candidate «3/346» | Page conflict inside the ledger | Lock from Musnad edition |
