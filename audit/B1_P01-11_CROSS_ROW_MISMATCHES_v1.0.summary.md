@@ -1,7 +1,7 @@
 # B1_P01-11 — Cross-Row Consistency Audit v1.0 (summary)
 
 **Date:** 2026-10-03
-**Output:** `audit/B1_P01-11_CROSS_ROW_MISMATCHES_v1.0.csv` (91 rows, XRM-001 … XRM-091)
+**Output:** `audit/B1_P01-11_CROSS_ROW_MISMATCHES_v1.0.csv` (92 rows, XRM-001 … XRM-092)
 **Inputs read:** all 328 rows of ledger v1.2 (every column); audit v1.0 (BUG-01…10); audit v1.1 §2 (BUG-11…30, register table); `audit/verification/sunni_six_books_check_2026-10-03.md` + `.raw.txt`; `sources/S-181_…`; `manuscript-patches/B1_P03_C06_FADAK_S-181_PATCH.md`.
 **Live evidence:** `tools/verify_sunni.py show/search` (six-book Arabic corpus). For Muslim, numbers were re-checked by Abd al-Baqi `arabicnumber` prefix (see finding 4 below).
 **Gate:** `BOOK 1 · PARTS 1–11 — CITATION AUDIT: PRINT BLOCKED` (unchanged).
@@ -25,14 +25,14 @@ A row may carry more than one letter (e.g. `C/D`). "All tags" counts every lette
 | G | primary wording merged with commentary | 8 | 4 |
 | H | book/volume/page/edition conflicts | 10 | 9 |
 | I | hadith-number conflicts | 11 | 8 |
-| J | character/name/location/speaker conflicts | 14 | 13 |
+| J | character/name/location/speaker conflicts | 15 | 14 |
 | K | «সূত্র নেই» where a source exists | 8 | 6 |
 | L | CONFIRMED/VERIFIED where only text existence is shown | 5 | 4 |
 | M | citation supports only part of the sentence | 12 | 5 |
 | N | citation reused outside its context / wrong register | 5 | 1 |
-| | **Total rows** | — | **91** |
+| | **Total rows** | — | **92** |
 
-37 of the 91 rows rest in part on research-layer knowledge. Their Evidence says "research-layer knowledge; needs page lock", and their Correct_Status is CANDIDATE or PAGE-CHECK. 51 rows quote live six-book corpus output.
+37 of the 92 rows rest in part on research-layer knowledge. Their Evidence says "research-layer knowledge; needs page lock", and their Correct_Status is CANDIDATE or PAGE-CHECK. 51 rows quote live six-book corpus output.
 
 Five rows are tagged `[row-vs-corpus; Row_B = context row]`: XRM-082, 084, 085, 086 and 087. Each is a conflict between one row and the corpus or an audit claim. Their Row_B is only a context row, not a real second party to the conflict.
 
@@ -46,7 +46,8 @@ Five rows are tagged `[row-vs-corpus; Row_B = context row]`: XRM-082, 084, 085, 
    - This is a factual error in the reader text.
 2. **XRM-002: Aus ibn al-Hadathan is listed as a witness for Umm Ayman and Ali** (REF-081).
    - S-181 places him with Aisha and Hafsa on the «لا نورث» counter-testimony.
-   - The corpus agrees: Bukhari 4033/3094 have «مالك بن أوس بن الحدثان» on the «لا نورث» side.
+   - Do not conflate him with **Malik b. Aws b. al-Hadathan**, who is a different person: the Sunni narrator of Umar's later «لا نورث» session (Bukhari 3094/4033, Muslim 1757).
+   - Malik b. Aws is not a witness before Abu Bakr, and his reports are no evidence for or against Aus. Searching «ابن الحدثان» in the six books returns only Malik, which invites this conflation (new row **XRM-092**, type J).
 3. **XRM-009: «কিতাবুল্লাহ ও আমার ইতরাত» is marked CONFIRMED under Sahih Muslim 2408** (REF-157).
    - The corpus text of Muslim 2408.01–.04 has «ثقلين … وأهل بيتي». «عترتي» is absent.
    - This attributes to Sahih Muslim a wording it does not contain. It contradicts REF-043 and BUG-04.
@@ -93,6 +94,8 @@ Close behind these:
 - XRM-064: Fadak as Khadija's mahr, which has no source.
 
 ---
+
+**Tool-fix re-check (coordinator notice):** I never used the pre-fix `show muslim` output as Evidence; all Muslim Evidence came from my own Abd al-Baqi prefix match. After the fix I re-ran `show muslim` for every Muslim number I cite: 2408, 2404, 1851, 2424, 2449, 2175, 2266, 1821, 1759, 1757, 2989, 2816, 2818, 2800, 91, 2450 and 1637. The results are identical, including «عترتي» absent from 2408, «أم سلمة» absent from 2424, «إمام» absent from 1851, «يسرني» absent from 2449 and «ينجي» absent from 2818. No Evidence cell changed. Bukhari 4240 re-checked: it has «دفنها زوجها علي ليلا، ولم يؤذن بها أبا بكر», with no grave-concealment will («قبر» not in the text), which is consistent with XRM-061.
 
 ## 3. What could not be verified here (stated plainly)
 

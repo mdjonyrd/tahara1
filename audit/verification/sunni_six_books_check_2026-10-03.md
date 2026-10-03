@@ -26,10 +26,10 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 | Bukhari | 1350 | 202 | Jabir: Abdullah b. Ubayy, the shirt | — | ✅ |
 | Bukhari | 1385 | 065 | كل مولود يولد على الفطرة | — | ✅ |
 | Bukhari | 1954 | 049 | Umar: إذا أقبل الليل … فقد أفطر الصائم | — | ✅ (ledger's «1815» = Bengali ed.) |
-| Bukhari | 2010 | 054 | نعمت البدعة هذه | — | ✅ |
+| Bukhari | 2010 | 054 | «نعم البدعة هذه» (corpus spelling; not «نعمت») | — | ✅ (C-06) |
 | Bukhari | 2035 / 3101 / 7171 | 039 | Safiyya story (Ali b. Husayn) | — | ✅ 7171 is this story (Ahkam) |
 | Bukhari | 3093 / 6726 | 123 | Fatima asks Abu Bakr for inheritance (Khumus / Fara'id) | — | ✅ |
-| Bukhari | 3110 | 075 | Ali b. Husayn … فاطمة عليها السلام … جويرية فأقبلت تسعى | — | ✅ |
+| Bukhari | 3110 | 075 | Ali b. Husayn (Khumus): «فاطمة عليها السلام» honorific present; **the «وهي جويرية فأقبلت تسعى» scene is Bukhari 520 (Ibn Mas'ud), not 3110** | — | ⚠ corrected (C-02) |
 | Bukhari | 3267 | 317 | Usama: كالحمار يدور برحاه | — | ✅ |
 | Bukhari | 3623 / 3624 | 085, 132, 262 | Aisha: مرحبا بابنتي … سيدة نساء | — | ✅ |
 | Bukhari | 3636 | 307 | Ibn Mas'ud: moon split, اشهدوا | — | ✅ |
@@ -59,10 +59,10 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 | Muslim | 1851 | 083 | من مات وليس في عنقه بيعة | — | ✅ |
 | Muslim | 1905 | 316 | first three judged (Abu Hurayra) | — | ✅ |
 | Muslim | 1907 | 326 | إنما الأعمال بالنية | — | ✅ |
-| Muslim | 2175 | 039 | Safiyya: يبلغ من الإنسان مبلغ الدم | — | ⚠ wording differs from Bukhari's مجرى الدم |
+| Muslim | 2175 | 039 | Safiyya: 2175.01 «يجري من الإنسان مجرى الدم», 2175.02 «يبلغ … مبلغ الدم» («ولم يقل يجري»); Bukhari 2035 has «يبلغ» | — | ⚠ wording varies by sub-report (C-08) |
 | Muslim | 2266 | 201 | من رآني في المنام | — | ✅ |
 | Muslim | 2404 | 080, 107, 236 | Sa'd: manzila + mubahala (هؤلاء أهلي) | — | ✅ |
-| Muslim | 2408 | 043, 157, 206, 242, 258 | Zayd b. Arqam: وأهل بيتي أذكركم الله | — | ✅ |
+| Muslim | 2408 | 043, 157, 206, 242, 258 | Zayd b. Arqam: «ثقلين … وأهل بيتي أذكركم الله» — **«عترتي» does not occur anywhere in Muslim** | — | ✅ for «أهل بيتي»; ✗ for «ইতরাত» (C-09) |
 | Muslim | 2424 | 096, 188 | Aisha: مرط مرحل, kisa | — | ✅ |
 | Muslim | 2449 | 142 | Miswar: يؤذيني ما آذاها | — | ✅ |
 | Muslim | 2450 | 132 | Aisha: Fatima's whispered secret | — | ✅ |
@@ -79,7 +79,7 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 | Abu Dawud | 4784 | 305 | anger from Shaytan → wudu | **Da'if** (Albani, Arnaut) | ⚠ print grade |
 | Abu Dawud | 5019 | 013 | Abu Hurayra: الرؤيا ثلاث | Sahih | ✅ correct no. for "three kinds" |
 | Abu Dawud | 5021 | 013 | Abu Qatada: الرؤيا من الله والحلم من الشيطان | Sahih | ❌ not the ledger's claim |
-| Abu Dawud | 5023 | 013 | Abu Hurayra: من رآني في المنام فقد رآني | Sahih | ✅ correct no. for "saw me" |
+| Abu Dawud | 5023 | 013 | Abu Hurayra: من رآني في المنام **فسيراني في اليقظة** … ولا يتمثل الشيطان بي (not «فقد رآني» — that wording is Bukhari 110) | Sahih | ⚠ corrected (C-01) |
 | Abu Dawud | 5217 | 068, 252, 262 | Aisha: resemblance; قام إليها | Sahih / hasan sahih | ✅ |
 | Tirmidhi | 4 | 271 | Jabir: مفتاح الجنة الصلاة | Sahih (Albani) / Da'if (Zubair) | ⚠ print grade |
 | Tirmidhi | 614 / 2616 | 004 | الصدقة تطفئ الخطيئة كما يطفئ الماء النار | Sahih | ✅ resolves REF-004 |
@@ -87,13 +87,13 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 | Tirmidhi | 2226 | 240 | الخلافة في أمتي ثلاثون سنة | Sahih / hasan | ✅ |
 | Tirmidhi | 2951 | 223, 224 | Ibn Abbas: اتقوا الحديث عني … برأيه | Da'if | ⚠ print grade |
 | Tirmidhi | 2952 | 225 | Jundub (as Abu Dawud 3652) | Da'if | ⚠ |
-| Tirmidhi | 3205 / 3787 / 3871 | 186 | Umar b. Abi Salama / Umm Salama: kisa, أنت على مكانك | Sahih | ✅ |
+| Tirmidhi | 3205 / 3787 / 3871 | 186 | 3205 & 3787 (Umar b. Abi Salama): «أنت على مكانك وأنت على خير / إلي خير»; 3871 (Umm Salama) is the cloak report **without** that phrase | Sahih | ⚠ split (C-05) |
 | Tirmidhi | 3206 | 144, 187, 189, 274 | Anas: ستة أشهر … الصلاة يا أهل البيت | **Da'if** | ⚠ print grade |
 | Tirmidhi | 3462 | 022 | الجنة طيبة التربة عذبة الماء (Ibn Mas'ud) | — | ∅ not the ledger's wording |
 | Tirmidhi | 3540 | 261 | Anas: hadith qudsi يا ابن آدم … عنان السماء | Sahih / hasan | ✅ |
 | Tirmidhi | 3713 | 012, 237 | من كنت مولاه فعلي مولاه | Sahih | ✅ |
 | Tirmidhi | 3714 | 280 | رحم الله عليا اللهم أدر الحق معه | **Very da'if** | ⚠ wording ≠ «علي مع الحق» |
-| Tirmidhi | 3723 | 164, 309 | أنا دار الحكمة وعلي بابها | Da'if | ❌ ledger treats it as «مدينة العلم» |
+| Tirmidhi | 3723 | 164, 309 | أنا دار الحكمة وعلي بابها — Tirmidhi's own remark in the text: «هذا حديث غريب منكر» | Da'if (later); **compiler: gharib munkar** | ❌ ledger treats it as «مدينة العلم» |
 | Tirmidhi | 3768 | 012, 085 | الحسن والحسين سيدا شباب أهل الجنة | Sahih | ✅ |
 | Tirmidhi | 3775 | 010 | حسين مني وأنا من حسين | Hasan | ✅ |
 | Tirmidhi | 3786 | 043, 157, 206, 242 | كتاب الله وعترتي أهل بيتي (Jabir) | Sahih (Albani) / Da'if (Zubair) | ✅ (grades differ – say so) |
@@ -128,3 +128,7 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 
 ## C. What this check does NOT cover
 Shia collections (al-Kafi, Bihar, 'Ilal, Kamal al-Din, Tafsir al-Qummi/al-Ayyashi, al-Ihtijaj, Sulaym), Sunni works outside the six (al-Hakim, Tabarani, Ahmad, Bayhaqi, Kanz, tafsir works), and all edition page numbers. Those rows keep `PAGE-CHECK` / `CANDIDATE` in ledger v1.2.
+
+
+## D. Corrections applied after the first run
+See `audit/_CORRECTIONS_TO_V1_1_2026-10-03.md` (C-01…C-16). Table A rows marked ⚠ corrected were changed accordingly.
