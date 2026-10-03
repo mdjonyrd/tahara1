@@ -26,3 +26,7 @@
 | C-22 | HAD-MADINAT-ILM = 5 rows (BUG-26) | 6 rows incl. prose REF-308 | Register updated |
 | C-23 | CL-HAD-008 single hadith | Used for two different hadiths (REF-250 Bukhari 3714; REF-251 Hakim 4730) | Split the CL id |
 | C-24 | REF-158 Ahmad «3/364» vs candidate «3/346» | Page conflict inside the ledger | Lock from Musnad edition |
+| C-25 | «حسبنا كتاب الله» at Bukhari 114 / 4431 (REF-134, HAD-QALAM) | Phrase is in Bukhari 114, 4432, 5669, 7366 and Muslim 1637.03 — **not** in 4431 / 3053 / Muslim 1637.01 | Cite 114 or 4432 for the phrase; 4431 only for the Thursday scene |
+| C-26 | REF-016 «الدعاء هو العبادة» = Tirmidhi 3370 | Nu'man b. Bashir: Tirmidhi **2969, 3247, 3372**; Abu Dawud 1479; Ibn Majah 3828. 3370 is Abu Hurayra «ليس شيء أكرم على الله» | Fix number (as C-03) |
+| C-27 | «مقاريض» absent from six books (evidence table §B) | The bare word occurs (Muslim 273.02, Tirmidhi 2402, Ibn Majah 346, Nasa'i 30) but never as the Mi'raj lips-scissors report | Statement refined; REF-318 still → Ahmad |
+| C-28 | Muslim «6062» (REF-107, Bengali ed.) | No Abd al-Baqi 6062 exists; standard = Muslim 2404 | Edition-number map |
