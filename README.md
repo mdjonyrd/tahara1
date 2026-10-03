@@ -15,6 +15,19 @@
 | `audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.2.csv` | v1.1 + per-row triage: `Triage, Triage_Label, Candidate_Source, Register_Key, Audit_Note` (data: `tools/triage_v1_2.py`)। |
 | `audit/B1_P01-11_CITATION_AUDIT_v1.1.md` | Audit v1.1: BUG-11…30, 12 mismatch corrections, normalisation register, revised execution order। |
 | `audit/verification/` | Live-check evidence (six Sunni books vs. ledger numbers, 2026-10-03)। |
+| `audit/B1_P01-11_CITATION_AUDIT_v1.2.md` | Consolidated audit v1.2 (19 sections): triage, cross-row mismatches, Sunni verification, Shia control, Fadak map, Umm Ayman, grading, S-ID audit, patch queue, next order। |
+| `audit/B1_P01-11_UNIDENTIFIED_REFERENCES_AUDIT_v1.3.csv` | Final triage ledger: 328 rows × 23 columns (joins v1.2 + cross-row + grading + UNID decisions + register)। `tools/build_ledger_v1_3.py`। |
+| `audit/B1_P01-11_CROSS_ROW_MISMATCHES_v1.0.csv` | 92 cross-row conflicts (types A–N) + summary। |
+| `audit/B1_P01-11_SUNNI_VERIFICATION_EVIDENCE_v1.1.md` | 214 (book×number×row) classifications: EXACT/PARTIAL/WRONG_NUMBER/…। |
+| `audit/B1_P01-11_GRADING_CONTROL_v1.0.csv` | 38 weak/disputed/munkar numbers with graders as printed + allowed Bengali formulation। |
+| `audit/B1_P01-11_SHIA_SOURCE_CONTROL_v1.0.csv` | 169 Shia-source rows (all CANDIDATE/PAGE-CHECK; nothing Shia is live-verifiable here)। |
+| `audit/B1_P01-11_FADAK_EVIDENCE_MAP_v1.0.csv` | 73 rows, 11 Fadak claims as separate evidentiary units। |
+| `audit/B1_P01-11_UMM_AYMAN_CONTROL_v1.0.md` | Identity / relationship / Paradise report / testimony / family kept apart; flags F-1…F-9। |
+| `audit/B1_P01-11_UNIDENTIFIED_ROWS_DECISIONS_v1.0.csv` | 40 rows (30 UNID + «সূত্র নেই» rechecks): 6 canonical found, 16 plausible, 3 secondary, 15 none। |
+| `audit/B1_P01-11_SOURCE_REGISTER_v1.1.csv` | 95 register keys → one canonical citation each; 41 keys had status conflicts। |
+| `audit/B1_P01-11_INTERNAL_SOURCE_ID_AUDIT_v1.0.md` | S-80…S-183, CL-HAD-*, local paths, secondary stand-ins। |
+| `audit/_CORRECTIONS_TO_V1_1_2026-10-03.md` | C-01…C-28: v1.1 claims corrected against the corpus। |
+| `manuscript-patches/B1_P01-11_MANUSCRIPT_PATCH_PLAN_v1.0.md` | 105 patch blocks + 223 NO_CHANGE; DOCX untouched। |
 | `sources/S-<id>_*.md` | এক source-lock = এক file। দাবি আলাদা, status আলাদা, edition-lock checklist সহ। |
 | `manuscript-patches/` | Prose + source-block replacement text, `⟦…⟧` placeholder = edition lock বাকি। |
 | `tools/apply_resolutions.py` | v1.0 → v1.1 transform। নতুন resolution = `RESOLUTIONS` dict-এ একটি entry। |
@@ -59,6 +72,7 @@ SOURCE-MISSING → NOT VERIFIED → PAGE-CHECK → EDITION LOCK → GLOBAL REFER
 |--------|-------------|--------|
 | `S-181` উম্মে আইমান ও ফাদাকের সাক্ষ্য | REF-078, 079, 081, 082 | RESEARCH COMPLETE / EDITION LOCK PENDING / PRINT: CONDITIONAL |
 | Six-book live check | 62 rows VL; 12 MM | numbers confirmed; grades to print; see audit v1.1 §2–4 |
+| Audit v1.2 work package (6 subagents) | all 328 rows | ledger v1.3, patch plan v1.0, 9 control tables — gate still PRINT BLOCKED |
 
 ## Rules (never violate)
 - Manuscript prose চুপিচুপি বদলানো যাবে না — patch file দিয়ে, দেখিয়ে।

@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-10-03 — Audit v1.2 work package (ledger v1.3, patch plan v1.0, control tables)
+- Six subagents (Opus ×4, Sonnet ×2) on a shared brief; coordinator verified every cross-agent claim against the six-book corpus.
+- Fixed `tools/verify_sunni.py` Muslim matching (Abd al-Baqi sub-report suffixes; no fallback); regenerated raw check; recorded corrections C-01…C-28 to audit v1.1.
+- New: cross-row mismatches (92), Sunni verification evidence v1.1 (214 classifications), grading control (38), Shia source control (169), Fadak evidence map (73), Umm Ayman control, unidentified-row decisions (40), source register v1.1 (95 keys), internal S-ID audit, manuscript patch plan v1.0 (105 blocks / 223 NO_CHANGE), ledger v1.3 (328 × 23), consolidated audit v1.2, tools/README.
+- Manuscript DOCX not available in this environment: every Page = PAGE-CHECK; manuscript text represented only by the ledger Text column.
+- Gate unchanged: PRINT BLOCKED.
+
 ## 2026-10-03 — Full ledger audit v1.1 + ledger v1.2 (per-row triage)
 - Read all 328 rows; triaged each (`tools/triage_v1_2.py`): 62 VL, 68 SPC, 67 CAND, 48 PROSE, 30 UNID, 17 HIST, 13 DUP, 12 MM, 5 S181, 4 EDN, 2 Q.
 - Live-checked every numbered Sunni reference against the six canonical collections (GitHub corpus; sunnah.com/dorar/jsDelivr blocked by network policy). Evidence: `audit/verification/sunni_six_books_check_2026-10-03.md`.
