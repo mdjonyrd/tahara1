@@ -15,7 +15,7 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 |---|---|---|---|---|---|
 | Bukhari | 1 | 326 | إنما الأعمال بالنيات (Umar) | — | ✅ |
 | Bukhari | 110 | 013, 201 | من رآني في المنام فقد رآني (Abu Hurayra) | — | ✅ |
-| Bukhari | 114 / 4431 | 134, 158 | ائتوني بكتاب / يوم الخميس (Ibn Abbas) | — | ✅ |
+| Bukhari | 114 / 4431 | 134, 158 | ائتوني بكتاب / يوم الخميس (Ibn Abbas); «حسبنا كتاب الله» is in 114, 4432, 5669, 7366 — not 4431 (C-25) | — | ✅ with placement note |
 | Bukhari | 528 | 285 | نهر بباب أحدكم (Abu Hurayra) | — | ✅ |
 | Bukhari | 530 | 278 | al-Zuhri: Anas weeping in Damascus | — | ✅ |
 | Bukhari | 631 | 277 | Malik b. al-Huwayrith, صلوا كما رأيتموني | — | ✅ |
@@ -43,10 +43,10 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 | Bukhari | 5230 | 142 | Miswar: يريبني ما أرابها (Ali's proposal) | — | ✅ |
 | Bukhari | 6463 | 293 | لن ينجي أحدا منكم عمله | — | ✅ |
 | Bukhari | 6993 | 201 | من رآني في المنام فسيراني في اليقظة | — | ✅ |
-| Bukhari | 7083 | 313 | إذا التقى المسلمان بسيفيهما (Abu Bakra via Hasan) | — | ✅ |
+| Bukhari | 7083 | 313 | «إذا تواجه المسلمان بسيفيهما» (Abu Bakra via Hasan); «التقى» = Bukhari 31 / 6875 | — | ✅ wording note (C-19) |
 | Bukhari | 7222 | 143, 152, 240 | يكون اثنا عشر أميرا … كلهم من قريش | — | ✅ |
 | Muslim | 8 | 298 | Hadith Jibril (ihsan) | — | ✅ |
-| Muslim | 91 | 087 | لا يدخل الجنة من في قلبه مثقال حبة من خردل من كبر | — | ✅ (ledger said no source) |
+| Muslim | 91 | 087 | 91.01/.03 «مثقال ذرة من كبر», 91.02 «حبة خردل من كبرياء»; verbatim «حبة من خردل من كبر» is Abu Dawud 4091 / Tirmidhi 1998 / Ibn Majah 59 | — | ✅ source exists; wording per book (C-18) |
 | Muslim | 395 | 264 | قسمت الصلاة بيني وبين عبدي | — | ✅ |
 | Muslim | 667 | 285 | river example | — | ✅ |
 | Muslim | 705 | 275 | Ibn Abbas: joined prayers in Madina | — | ✅ |
@@ -71,7 +71,7 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 | Muslim | 2888 | 313 | إذا التقى المسلمان بسيفيهما | — | ✅ |
 | Muslim | 2989 | 317 | Usama (Abu Wa'il): intestines, كالحمار يدور برحاه — sub-report 2989.02 | — | ✅ (after tool fix) |
 | Abu Dawud | 2968 | 079 | Fatima/Fadak inheritance | Sahih (Albani) | ✅ |
-| Abu Dawud | 2972 | 079 | Umar b. Abd al-Aziz restores Fadak | **Da'if (Albani)** | ⚠ grade is al-Albani's (BUG-01) |
+| Abu Dawud | 2972 | 079 | Umar b. Abd al-Aziz on Fadak — a *contrary* report: the Prophet «فأبى» declined Fatima's request | **Da'if (Albani, Abd al-Hamid, Zubair)** | ⚠ grade + content (BUG-01, C-11) |
 | Abu Dawud | 3652 | 225 | Jundub: من قال في القرآن برأيه فأصاب | Da'if | ⚠ print grade |
 | Abu Dawud | 4213 | 071 | Thawban: last/first with Fatima on travel | **Da'if** (Albani, Arnaut, Zubair) | ⚠ print grade |
 | Abu Dawud | 4646 | 240 | خلافة النبوة ثلاثون سنة | Hasan sahih | ✅ |
@@ -85,7 +85,8 @@ Verdicts: ✅ number + text match the ledger's claim · ⚠ number right, gradin
 | Tirmidhi | 614 / 2616 | 004 | الصدقة تطفئ الخطيئة كما يطفئ الماء النار | Sahih | ✅ resolves REF-004 |
 | Tirmidhi | 1621 | 094 | المجاهد من جاهد نفسه | Sahih | ✅ |
 | Tirmidhi | 2226 | 240 | الخلافة في أمتي ثلاثون سنة | Sahih / hasan | ✅ |
-| Tirmidhi | 2951 | 223, 224 | Ibn Abbas: اتقوا الحديث عني … برأيه | Da'if | ⚠ print grade |
+| Tirmidhi | 2951 | 223 | Ibn Abbas: اتقوا الحديث عني … برأيه | Da'if | ⚠ print grade |
+| Tirmidhi | 2950 | 224 | Ibn Abbas: «من قال في القرآن بغير علم» — separate hadith (C-04) | Da'if | ⚠ print grade |
 | Tirmidhi | 2952 | 225 | Jundub (as Abu Dawud 3652) | Da'if | ⚠ |
 | Tirmidhi | 3205 / 3787 / 3871 | 186 | 3205 & 3787 (Umar b. Abi Salama): «أنت على مكانك وأنت على خير / إلي خير»; 3871 (Umm Salama) is the cloak report **without** that phrase | Sahih | ⚠ split (C-05) |
 | Tirmidhi | 3206 | 144, 187, 189, 274 | Anas: ستة أشهر … الصلاة يا أهل البيت | **Da'if** | ⚠ print grade |
@@ -131,4 +132,4 @@ Shia collections (al-Kafi, Bihar, 'Ilal, Kamal al-Din, Tafsir al-Qummi/al-Ayyash
 
 
 ## D. Corrections applied after the first run
-See `audit/_CORRECTIONS_TO_V1_1_2026-10-03.md` (C-01…C-16). Table A rows marked ⚠ corrected were changed accordingly.
+See `audit/_CORRECTIONS_TO_V1_1_2026-10-03.md` (C-01…C-28). Table A rows marked ⚠ corrected were changed accordingly.
