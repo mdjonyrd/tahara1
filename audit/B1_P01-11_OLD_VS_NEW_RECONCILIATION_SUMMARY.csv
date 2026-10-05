@@ -1,0 +1,20 @@
+Metric,Value
+ledger_328_total,328
+ledger_328_bound_to_docx,328
+ledger_328_unbound,0
+new_claim_inventory_total,883
+claims_linked_to_ledger,328
+claims_without_ledger,555
+source_register_v1_2_keys,449
+evidence_records,956
+claim_VERIFIED,154
+claim_PAGE-CHECK,438
+claim_EDITION-LOCK,97
+claim_CONFLICT,190
+claim_NOT_FOUND,4
+evidence_VERIFIED,206
+evidence_PAGE-CHECK,459
+evidence_CONFLICT,190
+evidence_NOT_FOUND,4
+print_gate,PRINT BLOCKED
+manuscript_write,FALSE

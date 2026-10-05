@@ -1,0 +1,12 @@
+{
+  "docx_path": "book1/source/B1_P01-11_reader.docx",
+  "sha256": "337c70ea468a587ab248f5eb49ffacc0c167cfd421a76d145c02dbc8c0595ecc",
+  "size_bytes": 825302,
+  "python_docx_paragraphs": 10856,
+  "python_docx_nonempty": 10742,
+  "w_p_total": 10944,
+  "w_p_nonempty": 10830,
+  "flagged_paragraphs": 1973,
+  "export_file": "manuscript-export/B1_P01-11_reader.paragraphs.jsonl",
+  "note": "python-docx body paragraphs exclude nested table w:p; w_p_* counts all document.xml paragraphs."
+}

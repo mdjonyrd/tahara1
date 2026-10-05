@@ -1,5 +1,19 @@
 # tools/ — how to reproduce the B1_P01-11 citation-audit artefacts
 
+## Source harvest (2026-10-05) — Book 1 complete
+
+With the canonical DOCX present (`book1/source/B1_P01-11_reader.docx`):
+
+```bash
+python3 tools/run_source_harvest.py
+```
+
+This runs phases 0–21 (export → 328 reconciliation → claim inventory → registers/matrices/controls → gates). See `audit/SOURCE_HARVEST_README.md` and `audit/COMPLETE_SOURCE_HARVEST_REPORT.md`. **Does not modify the DOCX; PRINT BLOCKED stays.**
+
+Individual steps: `export_docx_paragraphs.py`, `reconcile_ledger_328.py`, `extract_claims.py`, `verify_sunni.py`, `build_source_harvest.py`.
+
+---
+
 All commands run from the repository root, Python 3.11, standard library only. Every command below was run on 2026-10-03 and the output described is what it produced. Bengali/Arabic text is UTF-8 (each script calls `sys.stdout.reconfigure(encoding="utf-8")`).
 
 ## 1. Pipeline at a glance
