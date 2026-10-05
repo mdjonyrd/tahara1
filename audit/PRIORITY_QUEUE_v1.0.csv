@@ -1,0 +1,13 @@
+Rank,Item,Artifact,Why,Blocked_On,Status
+1,REF-078 Fadak deed authorship,REF078_FADAK_DEED_DECISION_PACK_v1.0.md,Print blocker; dialogue vs al-Ihtijaj,AUTHOR_DECISION,OPEN
+2,Umm Ayman identity/paradise/Aus separation,UMM_AYMAN_DECISION_PACK_v1.0.md,S-181 control; Aus blend risk; grade-visible paradise,AUTHOR_DECISION + EDITION-LOCK,OPEN
+3,Edition locks (97) — Kafi/Bihar/Ihtijaj/Ibn Saʿd/Hakim,EDITION_LOCK_REGISTER_v1.0.csv,Cannot CONFIRMED/print without locked edition,AUTHOR_DECISION (O-10),OPEN
+4,Conflict triage (190),CONFLICT_TRIAGE_v1.0.csv,Human_Decision YES set; no silent merge,AUTHOR_DECISION,OPEN
+5,Grading language (weak/munkar/disputed),GRADING_LANGUAGE_CONTROL_v1.0.md,Never flat রাসূল ﷺ বলেছেন,Manuscript patch later,OPEN
+6,NOT_FOUND (4),NOT_FOUND_REVIEW.md,Attribution-only vs drop; ≠ DOES_NOT_EXIST,AUTHOR_DECISION,OPEN
+7,Unidentified (138),UNIDENTIFIED_DECISION_REGISTER_v1.0.csv,No silent deletion,AUTHOR_DECISION,OPEN
+8,Sunni outside six,SUNNI_OUTSIDE_SIX_REGISTER_v1.0.csv,dorar blocked; edition lock,Network/edition,OPEN
+9,Shia targeted verification,SHIA_TARGETED_VERIFICATION_v1.0.csv,thaqalayn blocked,Network/edition,OPEN
+10,মুখেই ছুড়ে notebook,MUKHE_CHURE_DECISION_NOTE.md,NOT FOUND exact triad; dream framing,AUTHOR_DECISION,OPEN
+11,Full AUTHOR_DECISION_REGISTER (291),AUTHOR_DECISION_REGISTER_v1.0.csv,All Human_Decision=YES rows,AUTHOR_DECISION blank until Jony,OPEN
+12,Patch readiness (not apply),PATCH_READINESS_v1.0.md,O-7 reconcile before any patch,Decisions + O-7,NOT READY

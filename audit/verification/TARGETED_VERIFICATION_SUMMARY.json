@@ -1,0 +1,103 @@
+{
+  "tip": "cce7fcc597131856b5d8606fdcbe50de809fe066",
+  "docx_sha": "337c70ea468a587ab248f5eb49ffacc0c167cfd421a76d145c02dbc8c0595ecc",
+  "docx_size": 825302,
+  "claims": 883,
+  "status_counts": {
+    "VERIFIED": 154,
+    "PAGE-CHECK": 438,
+    "NOT_FOUND": 4,
+    "CONFLICT": 190,
+    "EDITION-LOCK": 97
+  },
+  "conflict": 190,
+  "edition_lock": 97,
+  "not_found": 4,
+  "unidentified": 138,
+  "author_decision_rows": 291,
+  "author_decision_blank": true,
+  "sunni_outside_six": 47,
+  "shia_control": 284,
+  "grading_rows": 38,
+  "rasul_said": 82,
+  "umm_rows": 3,
+  "mukhe_hits": 6,
+  "gates": [
+    {
+      "Gate": "1",
+      "Name": "DOCX_SHA256_LOCK",
+      "Result": "PASS",
+      "Detail": "337c70ea468a587ab248f5eb49ffacc0c167cfd421a76d145c02dbc8c0595ecc"
+    },
+    {
+      "Gate": "2",
+      "Name": "TIP_BASELINE_cce7fcc",
+      "Result": "PASS",
+      "Detail": "cce7fcc597131856b5d8606fdcbe50de809fe066"
+    },
+    {
+      "Gate": "3",
+      "Name": "MANUSCRIPT_WRITE_FALSE_DOCX_UNCHANGED",
+      "Result": "PASS",
+      "Detail": "DOCX not modified"
+    },
+    {
+      "Gate": "4",
+      "Name": "NO_REHARVEST_USED_HARVEST_CSVS",
+      "Result": "PASS",
+      "Detail": "Built from harvest CSVs only; no rebuild of claim inventory"
+    },
+    {
+      "Gate": "5",
+      "Name": "NO_PATCHES_APPLIED",
+      "Result": "PASS",
+      "Detail": "Phase M readiness only; DOCX untouched"
+    },
+    {
+      "Gate": "6",
+      "Name": "NO_AUTO_AUTHOR_DECISIONS",
+      "Result": "PASS",
+      "Detail": "AUTHOR_DECISION blank on registers"
+    },
+    {
+      "Gate": "7",
+      "Name": "NO_FAKE_VERIFIED_UPGRADES",
+      "Result": "PASS",
+      "Detail": "Statuses retained as PAGE-CHECK/NOT_FOUND/CONFLICT/EDITION-LOCK; no new VERIFIED"
+    },
+    {
+      "Gate": "8",
+      "Name": "REF078_CONFLICT_OPEN",
+      "Result": "PASS",
+      "Detail": "Decision pack records OPEN + AUTHOR DECISION REQUIRED"
+    },
+    {
+      "Gate": "9",
+      "Name": "SUNNI_SHIA_KEPT_SEPARATE",
+      "Result": "PASS",
+      "Detail": "Separate registers; mixed rows flagged SPLIT/KEEP SEPARATE"
+    },
+    {
+      "Gate": "10",
+      "Name": "UMM_AYMAN_AUS_SEPARATE",
+      "Result": "PASS",
+      "Detail": "Umm Ayman pack + harvest Aus_Counter_Testimony_Separate=MANDATORY"
+    },
+    {
+      "Gate": "11",
+      "Name": "NOT_FOUND_NE_DOES_NOT_EXIST",
+      "Result": "PASS",
+      "Detail": "NOT_FOUND_REVIEW states ≠ DOES_NOT_EXIST for all 4"
+    },
+    {
+      "Gate": "12",
+      "Name": "PRINT_BLOCKED_REMAINS",
+      "Result": "PASS",
+      "Detail": "No PRINT ALLOWED written; Print_Safe=NO throughout"
+    }
+  ],
+  "gates_pass": 12,
+  "print": "PRINT BLOCKED",
+  "manuscript_write": false,
+  "patch_ready": false
+}

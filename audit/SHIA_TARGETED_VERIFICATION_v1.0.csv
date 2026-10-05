@@ -1,0 +1,285 @@
+Row_ID,Work,Author,Volume,Page_or_Report,Edition,Harvest_Status,Network_Status,Required_Action,Targeted_Status,Author_Decision,Print_Safe
+REF-003,al-Kafi,al-Kulayni,2,"Kitab al-Du'a, bab al-du'a 'inda al-nawm (Hisham b. Salim from al-Sadiq); p. 536 per ledger",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Choose ONE placement for HAD-TASBIH across book (2:536 vs 3:342-343); lock hadith no.,PAGE-CHECK,,NO
+REF-003/alt,al-Kafi,al-Kulayni,3,"bab al-ta'qib, pp. 342–343 per ledger",EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Decide placement; do not cite both as one reference,CANDIDATE,,NO
+REF-007,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,«three paupers» saying - not located,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Obtain Arabic wording; otherwise attribution-only («বর্ণিত আছে»),CANDIDATE,,NO
+REF-007/b,other: Ghurar al-Hikam,al-Amidi,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,as above,CANDIDATE,,NO
+REF-008,Bihar al-Anwar,al-Majlisi,1,195–205 (Kitab al-'ilm) family,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only wording; lock page if cited,CANDIDATE,,NO
+REF-016/a,Bihar al-Anwar,al-Majlisi,84,240 family,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-016/b,al-Kafi,al-Kulayni,2,466–467 (bab fadl al-du'a),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-019/a,Tafsir al-Qummi,Ali b. Ibrahim al-Qummi,1,42,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-019/b,Bihar al-Anwar,al-Majlisi,11,141 ff,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-021,al-Kafi,al-Kulayni,2,"74, h. 3 (Kitab al-Iman wa al-Kufr, bab al-ta'a wa al-taqwa; Jabir from Abu Ja'far)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-029/a,other: Tahdhib al-Ahkam,al-Shaykh al-Tusi,2,"289, h. 1157 (Muhammad b. Muslim from al-Sadiq)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-029/b,Tafsir al-Ayyashi,al-'Ayyashi,1,19,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-030,al-Kafi,al-Kulayni,3,"312–313, h. 1 (bab qira'at al-Qur'an; Mu'awiya b. Ammar)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock print page; verify Majlisi grade in Mir'at al-'Uqul,PAGE-CHECK,,NO
+REF-032/a,Tafsir al-Ayyashi,al-'Ayyashi,1,"21, h. 14 (Abu Hamza from al-Baqir)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-032/b,Bihar al-Anwar,al-Majlisi,"85 (manuscript, Beirut/Wafa) vs 82 (ledger)",20,Named: Beirut / Mu'assasat al-Wafa (per manuscript) - not locked,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one Bihar edition book-wide; resolve 82 vs 85,PAGE-CHECK,,NO
+REF-033,al-Kafi,al-Kulayni,1,"114, h. 1 (Kitab al-Tawhid, bab ma'ani al-asma')",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-033/nuqta,other: Mashariq Anwar al-Yaqin,Rajab al-Bursi,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Keep «বর্ণিত আছে»; never as hadith,CANDIDATE,,NO
+REF-034/a,al-Kafi,al-Kulayni,2,"495, h. 21 (Kitab al-Du'a, bab al-salat 'ala al-Nabi wa ahl baytih)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-034/b,other: al-Amali,al-Shaykh al-Saduq,—,"majlis 36, h. 12",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-035,al-Kafi,al-Kulayni,2,"18–19, h. 5 (bab da'a'im al-islam; Zurara from al-Baqir)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock; normalise with REF-284,PAGE-CHECK,,NO
+REF-036,al-Kafi,al-Kulayni,1,219–220 (bab 'ard al-a'mal),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-037,al-Kafi,al-Kulayni,1,"183–184, h. 8 (bab ma'rifat al-imam; Muhammad b. Muslim from al-Baqir)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-038,other: Ghurar al-Hikam,al-Amidi,—,no. 4641 (numbering varies by edition),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock edition numbering; keep «বর্ণিত আছে»,PAGE-CHECK,,NO
+REF-040,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,khutba 1,Named: Subhi Salih (ledger) - not locked,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock edition and the variant reading,PAGE-CHECK,,NO
+REF-042,al-Kafi,al-Kulayni,1,"195, h. 5 (bab anna al-a'imma nur Allah; Salih b. Sahl from al-Sadiq)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-046/a,Bihar al-Anwar,al-Majlisi,27,"172–173, bab 7 «أنه لا تقبل الأعمال إلا بالولاية», h. 16","Named: Mu'assasat al-Wafa, Beirut (manuscript; lib.eshia.ir/11008/27/173) - not locked",PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-046/b,other: al-Amali (al-Tusi),al-Shaykh al-Tusi,—,—,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-046/c,other: Thawab al-A'mal,al-Shaykh al-Saduq,—,197,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-046/d,other: al-Mahasin,al-Barqi,—,91,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-055,al-Kafi,al-Kulayni,8 (al-Rawda),"58–63, h. 21 (khutba «لو قد استوت قدماي»)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-056,al-Kafi,al-Kulayni,1,"288–289, h. 3 (bab ma nassa Allah wa rasuluh 'ala al-a'imma)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-057/a,other: Fiqh al-Rida,(attrib.),—,p. 294 region (mahr),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-057/b,Bihar al-Anwar,al-Majlisi,43,105 ff (bab tazwij Fatima),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-059/a,Kamal al-Din,al-Shaykh al-Saduq,2,409–413 (bab 39),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Locate the exact wording; keep separate from Muslim 1851 (BUG-06),PAGE-CHECK,,NO
+REF-059/b,al-Kafi,al-Kulayni,1,376–377 (bab man dana Allah bi-ghayr imam),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-060/a,Bihar al-Anwar,al-Majlisi,41,17 (manaqib Ali),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only; lock page,CANDIDATE,,NO
+REF-060/b,other: Manaqib Al Abi Talib,Ibn Shahrashub,2,124,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-063/a,'Ilal al-Shara'i',al-Shaykh al-Saduq,1,181–182 (bab 146),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-063/b,Bihar al-Anwar,al-Majlisi,43,81–82,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-064/a,other: Man la yahduruhu al-faqih,al-Shaykh al-Saduq,1,320–321,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-064/b,al-Kafi,al-Kulayni,3,342–343,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-069,Bihar al-Anwar,al-Majlisi,43,19 (from Maqatil al-Talibiyyin),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-070,Tafsir al-Qummi,Ali b. Ibrahim al-Qummi,2,117 (on Q 25:74),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-078,al-Ihtijaj,al-Tabrisi (Ahmad b. Ali),1,Fadak testimony; pp. 90–92 (one ed.) OR 119–127 (al-Khurasan ed.; ~p. 129),Two editions reported (S-181) - EDITION NOT LOCKED,VERIFIED-S181-URL,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Re-word dialogue or keep «বর্ণিত আছে» without Ihtijaj citation for the Prophet-wrote version; lock edition,VERIFIED-S181-URL,,NO
+REF-081/a,al-Ihtijaj,al-Tabrisi (Ahmad b. Ali),1,Fadak testimony (same pages as REF-078),EDITION NOT LOCKED,VERIFIED-S181-URL,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock edition; never merge with Baladhuri,VERIFIED-S181-URL,,NO
+REF-081/b,al-Ihtijaj,al-Tabrisi (Ahmad b. Ali),1,Umar's counter-argument (same section),EDITION NOT LOCKED,VERIFIED-S181-URL,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Print in separate sentence with «শিয়া সূত্রে» attribution,VERIFIED-S181-URL,,NO
+REF-081/c,Kitab Sulaym,Sulaym b. Qays al-Hilali (attrib.),—,Fadak passage (digital: usul.ai …/106),EDITION NOT LOCKED (Ansari ed. suggested by S-181),VERIFIED-S181-URL,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock printed page; check whether Sulaym has Ali testimony before citing it for that,VERIFIED-S181-URL,,NO
+REF-081/d,Qurb al-Isnad,Abdullah b. Ja'far al-Himyari,—,h. 99 or h. 335 (numbering differs),EDITION NOT LOCKED,VERIFIED-S181-URL,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock hadith numbering,VERIFIED-S181-URL,,NO
+REF-081/e,Bihar al-Anwar,al-Majlisi,22 (older pagination 8),"101, h. 59 (older 8/98)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-081/f,other: Sharh Nahj al-Balagha,Ibn Abi al-Hadid,16,"213–214, 216, 225, 273–275",Assumed Dar Ihya al-Kutub al-Arabiyya (M. Abu al-Fadl Ibrahim) - not locked,VERIFIED-S181-URL,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Confirm edition,VERIFIED-S181-URL,,NO
+REF-082,Bihar al-Anwar,al-Majlisi,29,p. 176 (najafdesertlibrary online) OR p. 128 (other ed.) - bab 11 «نزول الآيات في أمر فدك»,EDITION NOT LOCKED,VERIFIED-S181-URL,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock p. 128 vs 176; attribute as «শিয়া সূত্রে ফাদাকের বর্ণনায়»,VERIFIED-S181-URL,,NO
+REF-088,al-Kafi,al-Kulayni,2,226–241 (bab al-mu'min wa 'alamatuh wa sifatuh),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Match wording; lock hadith no.,PAGE-CHECK,,NO
+REF-089/a,al-Kafi,al-Kulayni,2,"241, h. 39",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-089/b,other: 'Uyun Akhbar al-Rida,al-Shaykh al-Saduq,1,256,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-089/c,other: al-Khisal,al-Shaykh al-Saduq,—,82,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-092,Kamal al-Din,al-Shaykh al-Saduq,2,340 (bab 33),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-093,other: al-Khisal or al-Amali (al-Saduq),al-Shaykh al-Saduq,—,locate by Safa-speech text,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Identify book by text search in print,CANDIDATE,,NO
+REF-095/a,other: 'Uddat al-Da'i,Ibn Fahd al-Hilli,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only,CANDIDATE,,NO
+REF-095/b,Bihar al-Anwar,al-Majlisi,70,64,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-104,other: Thawab al-A'mal,al-Shaykh al-Saduq,—,p. 126 region,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-108/a,other: Manaqib Al Abi Talib,Ibn Shahrashub,3,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only,CANDIDATE,,NO
+REF-108/b,Bihar al-Anwar,al-Majlisi,40,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-109,other: Majma' al-Bayan,al-Tabrisi (al-Fadl b. al-Hasan),10,209 (on Q 76:8-9),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-113/a,Tafsir al-Qummi,Ali b. Ibrahim al-Qummi,2,376 (Surat al-Tahrim),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock page and wording,PAGE-CHECK,,NO
+REF-113/b,Bihar al-Anwar,al-Majlisi,22,516–517,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-114,al-Kafi,al-Kulayni,1,451–452 (bab mawlid al-Nabi),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-117/a,al-Ihtijaj,al-Tabrisi (Ahmad b. Ali),1,131–149 (Khutbat Fadak),Named: al-Khurasan ed. (ledger) - not locked,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock same edition as REF-078/081,PAGE-CHECK,,NO
+REF-117/b,other: Balaghat al-Nisa',Ibn Abi Tahir Tayfur,—,23–30,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-118,al-Ihtijaj,al-Tabrisi (Ahmad b. Ali),1,131 (Abdullah b. al-Hasan: she came veiled),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-119,Bihar al-Anwar,al-Majlisi,43,177,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-120,other: 'Uddat al-Da'i,Ibn Fahd al-Hilli,—,—,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock page; oral items stay attribution-only,PAGE-CHECK,,NO
+REF-122,other: Sharh Nahj al-Balagha,Ibn Abi al-Hadid,16,213–216 (deed torn) per ledger,Assumed Dar Ihya al-Kutub al-Arabiyya (S-181) - not locked,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Find exact passage or drop citation for tearing,CANDIDATE,,NO
+REF-124,al-Kafi,al-Kulayni,2,399–400 (bab al-shakk),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock each hadith number separately,PAGE-CHECK,,NO
+REF-128,other: Shawahid al-Tanzil,al-Hakim al-Haskani,1,570–575 (h. 606–611) on Q 30:38,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-129/a,Bihar al-Anwar,al-Majlisi,43,175–176,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only; lock page,CANDIDATE,,NO
+REF-129/b,other: Manaqib Al Abi Talib,Ibn Shahrashub,3,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-130/a,Bihar al-Anwar,al-Majlisi,43,6–9 (age reports),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-130/b,Bihar al-Anwar,al-Majlisi,43,212–215 (duration after the Prophet),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-131/W,Bihar al-Anwar,al-Majlisi,43,183 ff,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Cite only as «শিয়া সূত্রে»; never under Bukhari 4240,PAGE-CHECK,,NO
+REF-133/a,Bihar al-Anwar,al-Majlisi,48,144,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-133/b,other: Manaqib Al Abi Talib,Ibn Shahrashub,4,320,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-136,al-Kafi,al-Kulayni,1,"543, h. 5 (bab al-fay' wa al-anfal)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-137/a,other: Majma' al-Bayan,al-Tabrisi (al-Fadl b. al-Hasan),6,634,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-137/b,Bihar al-Anwar,al-Majlisi,45,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-138,other: Majma' al-Bayan,al-Tabrisi (al-Fadl b. al-Hasan),6,634,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-139,other: 'Uyun Akhbar al-Rida,al-Shaykh al-Saduq,1,228–239 (bab 23; Rayyan b. al-Salt),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-141/a,other: al-Saqifa wa Fadak,Abu Bakr al-Jawhari,—,"manuscript «vol. 4, p. 81»; ed. Amini pp. 103–104 per ledger",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Resolve «4/81»; never merge with Umm Ayman rows,PAGE-CHECK,,NO
+REF-141/b,other: Sharh Nahj al-Balagha,Ibn Abi al-Hadid,16,214–215 (quoting al-Jawhari) per ledger,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-148,Bihar al-Anwar,al-Majlisi,43,103 ff,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only,CANDIDATE,,NO
+REF-149,Bihar al-Anwar,al-Majlisi,43,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-150,Bihar al-Anwar,al-Majlisi,43,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-154/a,Bihar al-Anwar,al-Majlisi,15,24,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only wording mandatory,CANDIDATE,,NO
+REF-154/b,Bihar al-Anwar,al-Majlisi,25,21–22,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-165,al-Kafi,al-Kulayni,1,210–212 (bab anna ahl al-dhikr … hum al-a'imma),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-166/a,other: al-Tafsir al-mansub ila al-Imam al-'Askari,(attrib. to Imam al-'Askari),—,p. 345 region,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Print attribution caveat,PAGE-CHECK,,NO
+REF-166/b,Bihar al-Anwar,al-Majlisi,2,3–4,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-169,al-Kafi,al-Kulayni,1,537–538 (bab silat al-imam),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-170,al-Kafi,al-Kulayni,1,537–538 (bab silat al-imam),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock each hadith no.,PAGE-CHECK,,NO
+REF-171,al-Kafi,al-Kulayni,2,162–163 (bab al-birr bi-l-walidayn),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-173,other: Shawahid al-Tanzil,al-Hakim al-Haskani,1,66 ff (on Q 1:6),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-174/a,other: Ma'ani al-Akhbar,al-Shaykh al-Saduq,—,32–33,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-174/b,Tafsir al-Qummi,Ali b. Ibrahim al-Qummi,2,on Q 67:22 (page not given),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-174/c,Tafsir al-Ayyashi,al-'Ayyashi,—,on Q 67:22 (page not given),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Confirm existence before citing; else drop Ayyashi for 67:22,CANDIDATE,,NO
+REF-178,Tafsir al-Ayyashi,al-'Ayyashi,1,383–384 (on Q 6:153; Burayd al-'Ijli from Abu Ja'far),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-181,other: Ma'ani al-Akhbar,al-Shaykh al-Saduq,—,—,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-182,al-Kafi,al-Kulayni,1,"208, h. 1–2 («كونوا مع الصادقين»)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-183,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,hikma 458 (Subhi Salih) / 455 (manuscript),Named: Subhi Salih numbering (ledger) - not locked,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock numbering system book-wide,PAGE-CHECK,,NO
+REF-184/a,other: 'Uyun Akhbar al-Rida,al-Shaykh al-Saduq,2,"51, h. 197",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-184/b,other: Mishkat al-Anwar,al-Tabrisi (Ali b. al-Hasan),1,116,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-190/a,other: 'Awalim al-'Ulum,Abdullah al-Bahrani,11,930–934,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-190/b,other: Mafatih al-Jinan,Abbas al-Qummi,—,—,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Cite 'Awalim as primary; Mafatih only as secondary,PAGE-CHECK,,NO
+REF-192/a,other: Ta'wil al-Ayat al-Zahira,Sharaf al-Din al-Astarabadi,2,813,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-192/b,Tafsir al-Qummi,Ali b. Ibrahim al-Qummi,—,on Q 98:5 (page not given),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-192/c,Bihar al-Anwar,al-Majlisi,24,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-193/a,other: Ghurar al-Hikam,al-Amidi,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-193/b,other: Tuhaf al-'Uqul,Ibn Shu'ba al-Harrani,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-194,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,khutba 179 (Dhi'lib al-Yamani),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-195,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,khutba 179,Named: Subhi Salih (ledger) - not locked,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-197,al-Kafi,al-Kulayni,1,"89, h. 5 (Kitab al-Tawhid, bab al-kawn wa al-makan)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-200/a,Bihar al-Anwar,al-Majlisi,36,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only,CANDIDATE,,NO
+REF-200/b,other: Manaqib Al Abi Talib,Ibn Shahrashub,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-204/a,Kamal al-Din,al-Shaykh al-Saduq,—,Yunus b. Zibyan report,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock; print chain caveat,PAGE-CHECK,,NO
+REF-204/b,other: Kifayat al-Athar,al-Khazzaz al-Qummi,—,—,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-212,Tafsir al-Qummi,Ali b. Ibrahim al-Qummi,2,106–107 (on Q 24:40),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-213,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,khutba 50,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Mark as paraphrase,PAGE-CHECK,,NO
+REF-214,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,khutba 93,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Mark as paraphrase; lock numbering,PAGE-CHECK,,NO
+REF-217/h8,al-Kafi,al-Kulayni,1,"54–58 (Kitab Fadl al-'Ilm, bab al-bida' wa al-ra'y wa al-maqayis), h. 8",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-217/h4,al-Kafi,al-Kulayni,1,"54–58 (Kitab Fadl al-'Ilm, bab al-bida' wa al-ra'y wa al-maqayis), h. 4",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-217/h3,al-Kafi,al-Kulayni,1,"54–58 (Kitab Fadl al-'Ilm, bab al-bida' wa al-ra'y wa al-maqayis), h. 3",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-217/h5,al-Kafi,al-Kulayni,1,"54–58 (Kitab Fadl al-'Ilm, bab al-bida' wa al-ra'y wa al-maqayis), h. 5",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-218,al-Kafi,al-Kulayni,2,415–416 (bab al-kufr),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-221,al-Kafi,al-Kulayni,1,"58, h. 19",EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-226/a,al-Kafi,al-Kulayni,1,"54, h. 6 (bab al-bida')",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-226/b,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,khutba 17,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-227/a,other: Tafsir Nur al-Thaqalayn,al-Huwayzi,1,607 (on Q 5:15),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-227/b,Tafsir al-Ayyashi,al-'Ayyashi,1,323,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-229,other: al-Amali (al-Tusi),al-Shaykh al-Tusi,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-230/a,other: Ma'ani al-Akhbar,al-Shaykh al-Saduq,—,35,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-230/b,Bihar al-Anwar,al-Majlisi,24,11,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-232,Bihar al-Anwar,al-Majlisi,44,329–330,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-235/a,Tafsir al-Qummi,Ali b. Ibrahim al-Qummi,2,170 (on Q 32:24),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-235/b,Bihar al-Anwar,al-Majlisi,24,? (page unknown),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-238/a,Tafsir al-Qummi,Ali b. Ibrahim al-Qummi,1,36,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-238/b,other: Tafsir Nur al-Thaqalayn,al-Huwayzi,1,52,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-238/c,al-Kafi,al-Kulayni,1,Kitab al-Hujja (page not given),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-243,al-Kafi,al-Kulayni,1,"478–479, h. 4 (bab mawlid Abi al-Hasan Musa)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-247/a,'Ilal al-Shara'i',al-Shaykh al-Saduq,1,5–6 (bab 2?),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-247/b,Bihar al-Anwar,al-Majlisi,15,? (page unknown),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-249/a,'Ilal al-Shara'i',al-Shaykh al-Saduq,1,180–181 (bab 142 «لم سميت فاطمة الزهراء»),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-249/b,other: Ma'ani al-Akhbar,al-Shaykh al-Saduq,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-249/c,Bihar al-Anwar,al-Majlisi,43,12,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-254,other: Tafsir Furat al-Kufi,Furat b. Ibrahim al-Kufi,—,page not given,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-270,other: Ta'wil al-Ayat al-Zahira,Sharaf al-Din al-Astarabadi,2,813,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-284,al-Kafi,al-Kulayni,2,"18–19, h. 5 (bab da'a'im al-islam per ledger; manuscript says «বাবুল ওয়ালায়াহ»)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Resolve bab name; normalise with REF-035,PAGE-CHECK,,NO
+REF-286,Nahj al-Balagha,al-Sharif al-Radi (compiler),—,hikma 237 (Subhi Salih),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-290/a,Bihar al-Anwar,al-Majlisi,43,172 (from Amali al-Saduq),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-290/b,other: al-Amali (al-Saduq),al-Shaykh al-Saduq,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-291,'Ilal al-Shara'i',al-Shaykh al-Saduq,1,180–181 (bab 142),EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-294/a,Bihar al-Anwar,al-Majlisi,43,76 (from Manaqib Ibn Shahrashub 3:341),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-294/b,other: Manaqib Al Abi Talib,Ibn Shahrashub,3,341,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-296/a,other: Misbah al-Mutahajjid,al-Shaykh al-Tusi,—,p. 300 region,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-296/b,other: Jamal al-Usbu',Ibn Tawus,—,—,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-299,other: Misbah al-Shari'a (attributed),(attrib.),—,via Mizan al-Hikma,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Attribution-only,CANDIDATE,,NO
+REF-301/a,Bihar al-Anwar,al-Majlisi,41,14,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-301/b,Bihar al-Anwar,al-Majlisi,70,186,EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),CANDIDATE,,NO
+REF-301/c,other: Sharh Nahj al-Balagha,Ibn Abi al-Hadid,10,157,EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-303,al-Kafi,al-Kulayni,2,495 («لا تبترها»),EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Normalise with REF-034,CANDIDATE,,NO
+REF-328,al-Kafi,al-Kulayni,2,"429, h. 3 (bab man yahummu bi-l-hasana aw al-sayyi'a)",EDITION NOT LOCKED,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,Lock one edition; confirm vol/page/hadith no. in print or thaqalayn.net (blocked here),PAGE-CHECK,,NO
+REF-101,al-Ihtijaj,al-Tabrisi (Ahmad b. Ali),—,"cited as source of Tafsir Hubb-e Ali, al-Kawthar h. 11",EDITION NOT LOCKED,CANDIDATE,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,"Locate in al-Ihtijaj and cite it, not the local file",CANDIDATE,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
+,,,,,,PAGE-CHECK,thaqalayn/blocked — PAGE-CHECK/SECONDARY-ONLY,,PAGE-CHECK,,NO
